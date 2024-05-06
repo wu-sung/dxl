@@ -27,4 +27,5 @@ command) f: forward, b: backword, s: stop, l : ccw rotate, r : cw rotate
 Open new linux terminal on Jetson nano
 
 $ sudo chmod a+rw /dev/ttyUSB0
+
 $ ros2 run dxl sub
