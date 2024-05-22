@@ -1,5 +1,6 @@
 # dxl
 
+<<<<<<< HEAD
 ros2 test package for dynamixel on Jetson nano
 
 dependency : ros2 foxy, dynamixel C++ SDK, cmake 3.16
@@ -29,3 +30,6 @@ Open new linux terminal on Jetson nano
 $ sudo chmod a+rw /dev/ttyUSB0
 
 $ ros2 run dxl sub
+=======
+## 다이나믹셀 동작 후 저장
+>>>>>>> 71ccf3614ef3e78242d1eb879119d595d35c735d
