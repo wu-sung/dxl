@@ -32,4 +32,4 @@ $ sudo chmod a+rw /dev/ttyUSB0
 $ ros2 run dxl sub
 =======
 ## 다이나믹셀 동작 후 저장
->>>>>>> 71ccf3614ef3e78242d1eb879119d595d35c735d
+
