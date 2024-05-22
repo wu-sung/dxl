@@ -1,4 +1,4 @@
-$ ros2 run dxl sub
+$ ros2 run dxl
 =======
 ## 다이나믹셀 동작 후 저장
 
